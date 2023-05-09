@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606848712333",
+    "project_id": "telequest-bd874",
+    "storage_bucket": "telequest-bd874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606848712333:android:3ec7cfcaff88e9b8eaacc4",
+        "android_client_info": {
+          "package_name": "com.example.nasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606848712333-bcn7lpgi2piusn74g1ho9fr95dgljjt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwKehForEYo8k5oA4rGY94PTHxOadx-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606848712333-aq071a6venrk7bcn4ji1qsj4ht5satii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
